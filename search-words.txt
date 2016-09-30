@@ -1,0 +1,15 @@
+linear-gradient
+padding: .3em 1em .3em 2em
+1px 1px 5px black
+5px solid #ffcc00
+1px 1px 5px #aaaaaa
+1px dashed black
+background: #ff8833
+padding: .7em 0
+margin: 0 15px 20px
+width: 370px
+0px 0px 7px white
+herança
+border-bottom: 1px solid #dddddd
+padding: .4em .8em
+1.5em 7%
